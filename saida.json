@@ -1,0 +1,1320 @@
+[
+  {
+    "title": "Garantia de Integridade de Dados em Assinatura Digital de Documentos (Provisório)",
+    "name": "Eduardo Maciel",
+    "email": "emaciel@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/06/2025",
+    "conclusionDate": "20/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "17/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição do escopo"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Aplicação de Inteligência Artifical no Desenvolvimento de Software (Provisório)",
+    "name": "Alex Sander Leite de Almeida",
+    "email": "alexalmeida@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/06/2025",
+    "conclusionDate": "20/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 1",
+    "observations": "Processo SEI: 23064.012137/2026-13",
+    "meetings": [
+      {
+        "date": "27/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Início da escrita do documento"
+      },
+      {
+        "date": "13/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes no escopo do trabalho"
+      }
+    ],
+    "documents": [],
+    "links": [
+      {
+        "description": "Exemplo de TCC 1",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "28/03/2026 13:25",
+        "url": "https://drive.google.com/file/d/1yiBItY47cZNhN5PHx8mRgtqQHx6jgymC/view?usp\u003dsharing"
+      }
+    ]
+  },
+  {
+    "title": "Controle de Acesso e Segurança de Aplicações Web (Provisório)",
+    "name": "Vinicius Sanches de Sousa Ramos",
+    "email": "ramosv@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/06/2025",
+    "conclusionDate": "20/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 1",
+    "observations": "Processo SEI: 23064.012137/2026-13",
+    "meetings": [
+      {
+        "date": "20/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Início da caracterização do problema"
+      },
+      {
+        "date": "13/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição do escopo e orientações iniciais"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Virtualização por Container (Provisório)",
+    "name": "Paula Cristina Hang",
+    "email": "paulahang@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2023",
+    "conclusionDate": "03/06/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "17/03/2026",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição de escopo do trabalho"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Modelagem de um Sistema para Gestão de Orientações de TCC: Uma Solução para Organização de Professores Orientadores",
+    "name": "Otavio Augusto Lopes",
+    "email": "otavio7lopes@hotmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2025",
+    "conclusionDate": "20/12/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.059593/2025-38 Processo SEI: 23064.040490/2025-02",
+    "meetings": [
+      {
+        "date": "12/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Correções para versão final"
+      },
+      {
+        "date": "05/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de paresentação de defesa"
+      },
+      {
+        "date": "21/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão do texto e orientações"
+      },
+      {
+        "date": "07/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão do texto e orientações"
+      },
+      {
+        "date": "24/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão do texto e orientações"
+      },
+      {
+        "date": "10/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Orientações sobre protótipo - Integração com APIs externas"
+      },
+      {
+        "date": "03/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Orientações sobre protótipo - Banco de dados"
+      },
+      {
+        "date": "26/09/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Orientações sobre protótipo"
+      },
+      {
+        "date": "19/09/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes no escopo e demais discussões"
+      },
+      {
+        "date": "05/09/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes no escopo"
+      },
+      {
+        "date": "29/08/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Retrospectiva do tcc1 e definição de estratégias"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d6b172211-6670-4078-9222-de11d1162cea\u0026idDocumento\u003ddb8a77d6-6fbb-470c-8aed-06ca15268801",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 17:11",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Documentação Dinâmica de Web APIs REST",
+    "name": "Joicimar Natalino de Oliveira Fernandes Dos Reis",
+    "email": "jreis.1997@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2024",
+    "conclusionDate": "20/12/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.059593/2025-38 Processo SEI: 23064.040490/2025-02",
+    "meetings": [
+      {
+        "date": "17/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes documento final"
+      },
+      {
+        "date": "08/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajuste no texto do documento"
+      },
+      {
+        "date": "04/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajuste no texto do documento"
+      },
+      {
+        "date": "27/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais - identificação dos pontos de melhoria no texto e na proposta"
+      },
+      {
+        "date": "06/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais"
+      },
+      {
+        "date": "23/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais"
+      },
+      {
+        "date": "10/09/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões iniciais e retrospectiva TCC1"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d0ac5b5e9-3a33-4d42-87e0-d4f5182e1493\u0026idDocumento\u003db96e51c6-6f9e-4d27-9997-2ef352ca93a0",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 18:06",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Análise Comparativa de Tecnologias Desktop no Desenvolvimento de Software para a Agricultura Familiar: O Sistema Agrogestor",
+    "name": "Lucas Jose da Costa",
+    "email": "costa.2022@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "13/08/2025",
+    "conclusionDate": "15/12/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.059593/2025-38 Processo SEI: 23064.040490/2025-02",
+    "meetings": [
+      {
+        "date": "15/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes documento final"
+      },
+      {
+        "date": "10/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de defesa"
+      },
+      {
+        "date": "03/12/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Correções de texto"
+      },
+      {
+        "date": "26/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Correções de texto"
+      },
+      {
+        "date": "19/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Correções de texto"
+      },
+      {
+        "date": "12/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Correções de texto"
+      },
+      {
+        "date": "05/11/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais"
+      },
+      {
+        "date": "29/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes nos resultados preliminares"
+      },
+      {
+        "date": "22/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais - trabalhos relacionados"
+      },
+      {
+        "date": "15/10/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais"
+      },
+      {
+        "date": "10/09/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões gerais"
+      },
+      {
+        "date": "27/08/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes no escopo da proposta"
+      },
+      {
+        "date": "20/08/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes no escopo da proposta"
+      },
+      {
+        "date": "13/08/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Discussões iniciais"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão Final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003dbb1048aa-a3bd-473a-b921-b0519bcc0615\u0026idDocumento\u003d66a9e5e3-3ec4-414b-99fa-729ecdde43aa",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 17:55",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Paradigmas Arquiteturais de Sistemas Distribuídos",
+    "name": "Alvaro Barbosa da Silva",
+    "email": "alvarobarbosa@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "30/07/2024",
+    "conclusionDate": "30/07/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.028624/2025-17",
+    "meetings": [
+      {
+        "date": "18/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "11/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "09/05/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "04/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "06/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "05/02/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão corrigida",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003df64101b6-7975-4fee-8aba-71b3ef27f481\u0026idDocumento\u003d2ad1297c-bf46-4d31-af88-dafc2a47e85e",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 16:53",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Travelsim: Simulador de Viagens com Dados Reais",
+    "name": "Ulisses Meotti",
+    "email": "ulissesmeotti@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2025",
+    "conclusionDate": "27/07/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.028624/2025-17",
+    "meetings": [
+      {
+        "date": "07/07/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes pontuais documento"
+      },
+      {
+        "date": "25/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de defesa"
+      },
+      {
+        "date": "18/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "11/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "04/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "23/05/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "09/05/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003db9d7140d-9706-4c7a-a7de-07ba4e4ff496\u0026idDocumento\u003dcf4bf29b-c6e0-4779-840b-354d29249114",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 16:51",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Proposta de Uma Arquitetura para um Software de Pesquisa Online Adequado a Lei Geral de Proteção de Dados",
+    "name": "Guilherme Baumgratz Spiger",
+    "email": "guispiger@hotmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2024",
+    "conclusionDate": "26/07/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.028624/2025-17",
+    "meetings": [
+      {
+        "date": "23/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia defesa"
+      },
+      {
+        "date": "13/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "06/06/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "09/05/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "06/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "01/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "23/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "09/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "12/04/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "28/03/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Apresentação das ideias de trabalho"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d83a20a90-4d7e-4769-946b-4d39949991ec\u0026idDocumento\u003d47ed6f92-2bde-45b6-9af7-974b79af0634",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 16:52",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": []
+  },
+  {
+    "title": "Bancos de Dados NoSQL: Vulnerabilidades de Segurança Encontrados no MongoDB",
+    "name": "Lucas Alves Rubira",
+    "email": "lucasrubira@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2024",
+    "conclusionDate": "28/02/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.003260/2025-54",
+    "meetings": [
+      {
+        "date": "18/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de apresentação"
+      },
+      {
+        "date": "12/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes de slides da defesa"
+      },
+      {
+        "date": "07/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão final do texto"
+      },
+      {
+        "date": "13/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Análise dos resultados parciais"
+      },
+      {
+        "date": "06/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão de texto"
+      },
+      {
+        "date": "29/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão de texto"
+      },
+      {
+        "date": "15/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "06/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "23/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Inclusão do site CVE como padrão para reports de vulnerabilidades"
+      },
+      {
+        "date": "16/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "05/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Conversa inicial"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão Final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d9e0f2c59-58f1-44f3-ab04-b035b0f6dad6\u0026idDocumento\u003d7a50edba-886a-4249-9c69-0c742c1b4afb",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 15:41",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 15:41",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36794"
+      }
+    ]
+  },
+  {
+    "title": "Sistema Eletrônico de Informações: Um Estudo Sobre a Qualidade de Dados",
+    "name": "Matheus Augusto Conde Dias",
+    "email": "mdias.1998@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2023",
+    "conclusionDate": "21/02/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Process SEI: 23064.036556/2023-90",
+    "meetings": [
+      {
+        "date": "06/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão final do texto"
+      },
+      {
+        "date": "05/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "28/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão dos capítulos introdutórios"
+      },
+      {
+        "date": "21/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Reutilizar plataforma extração de dados SEI no trabalho"
+      },
+      {
+        "date": "13/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Considerações sobre utilizar o SEI como caso de uso"
+      },
+      {
+        "date": "06/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "15/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "04/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes na proposta inicial"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d13d08f50-d173-480a-a64d-fc83ad0ade6c\u0026idDocumento\u003d5d389eca-9418-4a86-b590-836cb6b2e2e4",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 15:31",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 15:32",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36820"
+      }
+    ]
+  },
+  {
+    "title": "Análise de Qualidade e Visão dos Dados Disponibilizados, sobre Homicídios no Brasil: um panorama da violência",
+    "name": "Lucas Felix Vaz",
+    "email": "lucasfelixvaz@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2024",
+    "conclusionDate": "18/02/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.003260/2025-54",
+    "meetings": [
+      {
+        "date": "19/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de apresentação"
+      },
+      {
+        "date": "12/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes de slides da defesa"
+      },
+      {
+        "date": "05/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão final do texto"
+      },
+      {
+        "date": "04/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "04/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Análise dos resultados finais"
+      },
+      {
+        "date": "20/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "13/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "06/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Análise dos resultados preliminares"
+      },
+      {
+        "date": "28/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão de texto"
+      },
+      {
+        "date": "18/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "30/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "17/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes na proposta inicial"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d5366508e-f65e-4fb3-8bfa-1b33dd42a986\u0026idDocumento\u003d6e78b9e7-f2f5-496d-b66d-62a9fc58b3ac",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 12:35",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 12:35",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36792"
+      }
+    ]
+  },
+  {
+    "title": "Qualidade de Dados e Linked Data: Aprimoramento de Dados Abertos Governamentais",
+    "name": "Emanuelle Machado",
+    "email": "emanuellemachado@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/02/2024",
+    "conclusionDate": "18/02/2025",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "Processo SEI: 23064.003260/2025-54",
+    "meetings": [
+      {
+        "date": "19/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de apresentação"
+      },
+      {
+        "date": "12/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes de slides da defesa"
+      },
+      {
+        "date": "05/02/2025",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão final do texto"
+      },
+      {
+        "date": "04/12/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "27/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão dos capítulos introdutórios"
+      },
+      {
+        "date": "20/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "13/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "06/11/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Inclusão de novas tecnologias a serem estudadas"
+      },
+      {
+        "date": "21/08/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes na revisão da literatura"
+      },
+      {
+        "date": "31/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "14/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "03/07/2024",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes na proposta inicial"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d885ad320-b748-4715-84f8-a5649bc41bd6\u0026idDocumento\u003d39005f89-114c-49ed-a6bc-5629032891c8",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 16:02",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 16:02",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36793"
+      }
+    ]
+  },
+  {
+    "title": "Gamificação no Ensino de Programação",
+    "name": "Diego Gomes",
+    "email": "diego.gomes87@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2023",
+    "conclusionDate": "15/12/2023",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [],
+    "documents": [
+      {
+        "document": "Versão final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003dbb1ac6e7-0e20-444b-b4e0-4cf969d14acb\u0026idDocumento\u003d8c84582d-5250-4625-a502-de8fe946c9bd",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 00:44",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório Institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 00:41",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36758"
+      },
+      {
+        "description": "Processo SEI",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 00:59",
+        "url": "https://sei.utfpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?iI3OtHvPArITY997V09rhsSkbDKbaYSycOHqqF2xsM0IaDkkEyJpus7kCPb435VNEAb16AAxmJKUdrsNWVIqQyzKIp4zwpsHEsUGp_G6M2_M4EmzhqivFtixiR5fIxAQ"
+      }
+    ]
+  },
+  {
+    "title": "Explorando Dados de Roubos e Furtos de Veículos em São Paulo: Uma Abordagem De Integração Com Pentaho, Postgresql, Elasticsearch e Kibana",
+    "name": "Gabriel Junior Picagevicz",
+    "email": "gabrielpicagevicz@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/03/2023",
+    "conclusionDate": "08/12/2023",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "14/06/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Prévia de apresentação"
+      },
+      {
+        "date": "30/05/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ajustes final de documento"
+      },
+      {
+        "date": "13/05/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Revisão de texto"
+      },
+      {
+        "date": "06/05/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "23/04/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "09/04/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento"
+      },
+      {
+        "date": "20/03/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Refinamento do escopo do traballho"
+      },
+      {
+        "date": "08/03/2023",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição do escopo do trabalho"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão Final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003dc435aede-2f10-4518-8e0c-77e607982bea\u0026idDocumento\u003d6728bb5d-660e-40ae-aea2-00d880d8ae8f",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 01:16",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório Institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 01:17",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/36818"
+      },
+      {
+        "description": "Processo SEI",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 01:17",
+        "url": "https://sei.utfpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?iI3OtHvPArITY997V09rhsSkbDKbaYSycOHqqF2xsM0IaDkkEyJpus7kCPb435VNEAb16AAxmJKUdrsNWVIqQyzKIp4zwpsHEsUGp_G6M2_M4EmzhqivFtixiR5fIxAQ"
+      },
+      {
+        "description": "Processo SEI - Demais documentos",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 01:25",
+        "url": "https://sei.utfpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?iI3OtHvPArITY997V09rhsSkbDKbaYSycOHqqF2xsM0IaDkkEyJpus7kCPb435VNEAb16AAxmJKUdrsNWVIqQyihjB7CgmRdFB-13RdYwIJjsN8ghjQTfLXd7McPf61g"
+      }
+    ]
+  },
+  {
+    "title": "Análise do nível de aderência à LGPD no setor público",
+    "name": "Jhony Wesley Marques",
+    "email": "jhonymarques@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Ivan Luiz Salvadori",
+    "startDate": "01/07/2022",
+    "conclusionDate": "08/12/2022",
+    "situation": "CONCLUIDO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "06/12/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Ensaio para defesa do trabalho"
+      },
+      {
+        "date": "29/11/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Apontamentos sobre o documento TCC"
+      },
+      {
+        "date": "17/11/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Refinamentos da proposta"
+      },
+      {
+        "date": "10/11/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "25/10/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Refinamento na estrutura do documento TCC"
+      },
+      {
+        "date": "04/10/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Abertura de documento Latex para TCC"
+      },
+      {
+        "date": "20/09/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "06/09/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Seleção de bibliografias"
+      },
+      {
+        "date": "30/08/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição do escopo do TCC"
+      },
+      {
+        "date": "22/07/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "22/06/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Acompanhamento do trabalho"
+      },
+      {
+        "date": "02/05/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Definição de propostas"
+      },
+      {
+        "date": "22/04/2022",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "subject": "Conversa inicial sobre possíveis trabalhos"
+      }
+    ],
+    "documents": [
+      {
+        "document": "Versão Final",
+        "url": "https://lds.td.utfpr.edu.br/sistemas/orienta.acoes/publico/documentos/carregarConteudoDocumentoPdf?idOrientacao\u003d9af9be57-de22-4c34-b74a-6bc47fb8d6e2\u0026idDocumento\u003dd1aa5f6f-c64d-4fc7-887e-3585619cc479",
+        "sentBy": "Ivan Luiz Salvadori",
+        "data": "16/01/2026 00:27",
+        "access": "PUBLICO"
+      }
+    ],
+    "links": [
+      {
+        "description": "Repositório Institucional",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 00:24",
+        "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/30387"
+      },
+      {
+        "description": "Processo SEI",
+        "registeredBy": "Ivan Luiz Salvadori",
+        "date": "16/01/2026 01:00",
+        "url": "https://sei.utfpr.edu.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?iI3OtHvPArITY997V09rhsSkbDKbaYSycOHqqF2xsM0IaDkkEyJpus7kCPb435VNEAb16AAxmJKUdrsNWVIqQ37JAV9pAWkRldwmG75RTD3ExgeM0PE1TzADgyneaetR"
+      }
+    ]
+  },
+  {
+    "title": "Análise Comparativa entre Criptografia Assimétrica Clássica e Pós-Quântica: RSA, ECC e Lattice",
+    "name": "Arthur Estevao da Silva Cegalin",
+    "email": "arthurcegalin@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Sistema de gestão e controle patrimonial universitário com integração de barcode scanning",
+    "name": "Ana Cassia Crespao Ribeiro",
+    "email": "cassiribeiro97@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Desenvolvimento de uma Plataforma Web Gamificada para Estudos Preparatórios ao ENEM e Vestibulares",
+    "name": "Eduardo Anderson Almeida de Jesus",
+    "email": "eduardojesus1313@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "18/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Andamento do implementação"
+      },
+      {
+        "date": "04/02/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Template e Orientações iniciais"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Desenvolvimento de um Sistema de Autenticação Segura para Controle de Acesso com NFC e Tokens Temporários (TOTP)",
+    "name": "Regis Vinicius Ferreira Pauvels",
+    "email": "regis.viniciuspf@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "17/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Apresentação do template de TCC2"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Engenharia de Software Aplicada: Solução de Assinatura Digital Escalável",
+    "name": "William Moreira da Silva",
+    "email": "william.moreirasilva@hotmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "31/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Continuidade do TCC2"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Em definição",
+    "name": "Joao Victor Garcia",
+    "email": "joaovictorgarcia@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "02/04/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Em definição",
+    "name": "Caio Oliveira Zani",
+    "email": "caiozani@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "10/03/2026",
+    "conclusionDate": "07/12/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 1",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "30/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Definição do tema"
+      },
+      {
+        "date": "12/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Apresentação de temas"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "A definir",
+    "name": "Matheus Rodrigo Weber",
+    "email": "matheusweber@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Fabio Engel de Camargo",
+    "startDate": "10/03/2026",
+    "conclusionDate": "13/07/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 1",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "31/03/2026",
+        "registeredBy": "Fabio Engel de Camargo",
+        "subject": "Definição de área/tema"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Site TSI com heurístcas",
+    "name": "Lucas Renan Broglio Bernardi",
+    "email": "lucasrenanbroglio@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Eduardo Pezutti Beletato Dos Santos",
+    "startDate": "09/03/2026",
+    "conclusionDate": "13/07/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 1",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "31/03/2026",
+        "registeredBy": "Eduardo Pezutti Beletato Dos Santos",
+        "subject": "dúvidas e alinhamentos"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Layout agregador de informacões de bancas",
+    "name": "Keila Prado de Jesus",
+    "email": "keilaprado@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Eduardo Pezutti Beletato Dos Santos",
+    "startDate": "09/03/2026",
+    "conclusionDate": "13/07/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "Discord: aliek",
+    "meetings": [
+      {
+        "date": "17/03/2026",
+        "registeredBy": "Eduardo Pezutti Beletato Dos Santos",
+        "subject": "Alinhando o objetivo"
+      }
+    ],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Revisão sistemática sobre daltonismo",
+    "name": "Rogerio Andrews Biqueri",
+    "email": "biqueri@gmail.com",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Eduardo Pezutti Beletato Dos Santos",
+    "startDate": "10/03/2026",
+    "conclusionDate": "13/07/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [],
+    "documents": [],
+    "links": []
+  },
+  {
+    "title": "Uso de IA para aprendizado",
+    "name": "Matheus Felipe Rigo Schaurich",
+    "email": "schaurich@alunos.utfpr.edu.br",
+    "course": "Tecnologia em Sistemas para Internet",
+    "advisor": "Eduardo Pezutti Beletato Dos Santos",
+    "startDate": "10/03/2026",
+    "conclusionDate": "13/07/2026 (previsão)",
+    "situation": "EM_ANDAMENTO",
+    "stage": "TCC 2",
+    "observations": "",
+    "meetings": [
+      {
+        "date": "31/03/2026",
+        "registeredBy": "Eduardo Pezutti Beletato Dos Santos",
+        "subject": "Primeira"
+      }
+    ],
+    "documents": [],
+    "links": []
+  }
+]

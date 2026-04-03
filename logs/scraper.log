@@ -1,0 +1,7 @@
+2026-04-02T23:29:57.624-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Main                 : Starting Main using Java 21.0.10 with PID 29124 (C:\Users\diana\OneDrive\Documents\GitHub\atividade1\target\classes started by diana in C:\Users\diana\OneDrive\Documents\GitHub\atividade1)
+2026-04-02T23:29:57.626-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Main                 : No active profile set, falling back to 1 default profile: "default"
+2026-04-02T23:29:58.046-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Scraper              : Starting scraping from site...
+2026-04-02T23:29:58.547-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Scraper              : Scraping completed, starting data processing...
+2026-04-02T23:29:58.547-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Scraper              : Data [, ivanlsalvadori, fabioe, epsantos]
+2026-04-02T23:29:59.751-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Scraper              : Escrita do arquivo JSON concluída.
+2026-04-02T23:29:59.944-03:00  INFO 29124 --- [main] br.edu.utfpr.td.tsi.Main                 : Started Main in 2.705 seconds (process running for 2.984)
